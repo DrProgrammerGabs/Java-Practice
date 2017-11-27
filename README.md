@@ -1,3 +1,4 @@
 # Java-Practice
-java test file
-Practice learing Java
+Java test file
+<br></br>
+Practice exercises for learning Java programming language
